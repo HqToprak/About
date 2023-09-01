@@ -1,4 +1,4 @@
-re# 💫 About Me:
+## 💫 About Me:
 Python Discord Bot Developer , Front-end , Back-end
 
 
