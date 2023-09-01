@@ -16,6 +16,6 @@ Python Discord Bot Developer , Front-end , Back-end
 ![](https://github-profile-trophy.vercel.app/?username=HqTopraku&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HqTopraku&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HqTopraku&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
